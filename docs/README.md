@@ -1,4 +1,4 @@
-# Symfony 4.1 Jobeet Tutorial
+# Symfony 5.1 Jobeet Tutorial
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
